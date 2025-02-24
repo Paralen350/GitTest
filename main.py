@@ -1,0 +1,1 @@
+print("bureš je hlupák")
